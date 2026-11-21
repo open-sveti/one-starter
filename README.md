@@ -3,13 +3,13 @@ permalink: /
 eleventyNavigation: { key: Home, order: 1 }
 ---
 
-# [①ne](//buildawesome.one/) Starter
+# [➀ne](//buildawesome.one/) Starter
 
 
 <big>One of the smallest and easiest to maintain starters for Build Awesome (11ty)
 — perfect for blogs, docs, landing pages, or anything content-driven.</big>
 
-Powered by [Build Awesome ①ne](//buildawesome.one/) and [Blades CSS](//blades.dev/).
+Powered by [Build Awesome ➀ne](//buildawesome.one/) and [Blades CSS](//blades.dev/).
 
 ![](https://trendshift.io/api/badge/trendshift/repositories/78215/daily?language=Nunjucks)
 
